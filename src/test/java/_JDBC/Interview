@@ -1,0 +1,9 @@
+JDBC Nedir?
+Veritabanlarını automation yapmama yardımcı oluyor.
+sorgularımı gönderiyorum, gelen sonuçlarla, UI daki
+gözüken sonuçları karşılaştırıyorum.
+
+JDBC yi nasıl kullanırsın?
+URL, username ve password vererek bir connection oluştururum.
+Bu connection üzerinde statement oluşturarak, sorgularımı çalıştırırım.
+Sonuçlarımı ResultSet atarak kullanırım.
